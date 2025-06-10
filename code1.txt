@@ -1,2 +1,1 @@
-print('Hello from code1')
-print('This is an update from dev branch')
+print('Updated code1.txt in dev branch')
